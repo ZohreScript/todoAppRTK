@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-you should start db.jason in terminal with npm run server (http://localhost:5000/todos)
+you should start db.jason in terminal with: npm run server  then create db.jason on server (http://localhost:5000/todos)
 to run correctly
 
 
