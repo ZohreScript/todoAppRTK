@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+you should start db.jason in terminal with npm run server (http://localhost:5000/todos)
+to run correctly
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
